@@ -1,0 +1,9 @@
+package com.dsa.day8;
+
+public class AddingOfArrayElements {
+
+	
+	public static void main(String[] args) {
+		
+	}
+}

@@ -1,0 +1,24 @@
+package com.dsa.day8;
+
+import java.util.Scanner;
+
+public class AddingOfArrayElements {
+
+	
+	public static void main(String[] args) {
+		
+		Scanner scanner=new Scanner(System.in);
+		
+		System.out.println("Please enter the array of elements to iterate");
+		
+		int n=scanner.nextInt();
+		
+		AddingArrayElementsInArray(int[] arr,n);
+		
+	}
+
+	private static void AddingArrayElementsInArray(Object object, int n) {
+		
+	}
+	
+}
